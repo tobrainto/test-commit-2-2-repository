@@ -1,0 +1,15 @@
+/target/
+/.classpath
+/.project
+/.settings/
+/*/logs/
+/.idea/
+*.iml
+logs/
+*.xml.*
+release.properties
+/target/
+.DS_Store
+nohup.out
+*.swp
+git*.sh
